@@ -4,7 +4,8 @@ go 1.14
 
 require (
 	github.com/gin-contrib/sse v0.1.1-0.20190905051334-43f0f29dbd2b // indirect
-	github.com/gin-gonic/gin v1.3.0
+	github.com/gin-gonic/autotls v0.0.0-20200518075542-45033372a9ad // indirect
+	github.com/gin-gonic/gin v1.6.3
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/mattn/go-isatty v0.0.13-0.20200128103942-cb30d6282491 // indirect
